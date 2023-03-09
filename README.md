@@ -1,6 +1,6 @@
 # musicbox
 
-A new Flutter project.
+A music player for android made using the Flutter Framework.
 
 ## Getting Started
 
