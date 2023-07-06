@@ -5,8 +5,8 @@ A music player for android made using the Flutter Framework.
 ## Screenshots
 
 [![Screenshot-20230706-194137.png](https://i.postimg.cc/Hk7THsZW/Screenshot-20230706-194137.png)](https://postimg.cc/gxdCHdb1)
-.
-[![Screenshot-20230706-194203.png](https://i.postimg.cc/sf6zhZbD/Screenshot-20230706-194203.png)](https://postimg.cc/8s6x8s1q)
+
+[Screenshot-20230706-194203.png](https://postimg.cc/8s6x8s1q)
 
 ## Getting Started
 
