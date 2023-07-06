@@ -6,7 +6,7 @@ A music player for android made using the Flutter Framework.
 
 [![Screenshot-20230706-194137.png](https://i.postimg.cc/Hk7THsZW/Screenshot-20230706-194137.png)](https://postimg.cc/gxdCHdb1)
 
-![Alt text]([http://full/path/to/img.jpg](https://postimg.cc/8s6x8s1q) "Playing Now")
+![Screenshot-20230706-194203.png]((https://postimg.cc/8s6x8s1q) "Playing Now")
 
 ## Getting Started
 
